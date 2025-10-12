@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner showing solar car and electronics theme"/>
+  <img src="banner.png.gif" width="100%" alt="Abderrahmane Er-Raqabi banner"/>
 </p>
 
 # 👋 Hey, I'm Abderrahmane Er-Raqabi  
