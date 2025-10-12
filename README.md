@@ -31,10 +31,9 @@ Circuit Design · System Integration · Power Systems · Simulation · Embedded 
 </div>
 
 ---
-
 ### 🌍 Connect with Me  
 <p align="center">
-  <a href="[www.linkedin.com/in/abderrahmane-er-raqabi-7381b0354](https://www.linkedin.com/in/abderrahmane-er-raqabi-7381b0354/)">
+  <a href="https://www.linkedin.com/in/abderrahmane-er-raqabi-7381b0354/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abderrahmane.erraqabi@gmail.com">
