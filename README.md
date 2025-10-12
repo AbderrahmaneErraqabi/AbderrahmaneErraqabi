@@ -1,16 +1,47 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner showing solar car and electronics theme"/>
+</p>
 
-<!--
-**AbderrahmaneErraqabi/AbderrahmaneErraqabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Abderrahmane Er-Raqabi  
 
-Here are some ideas to get you started:
+🎓 **Electrical Engineering Student @ Polytechnique Montréal**  
+🔌 Passionate about **Embedded Systems**, **Wiring Design**, and **Power Electronics**  
+🚗 Member of the **Esteban Solar Car Team** — Wiring & Embedded Systems Division  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me  
+Driven by a passion for clean technology and smart hardware, I enjoy combining **electrical design**, **programming**, and **innovation** to build efficient and reliable systems.  
+I thrive in collaborative engineering environments and love solving real-world problems through creative design and experimentation.
+
+---
+
+### ⚙️ Tech Stack  
+<div align="center">
+
+💻 **Languages:**  
+C++ · Python · Rust · MATLAB · Embedded C  
+
+🔧 **Tools & Platforms:**  
+KiCad · AutoCAD Electrical · Git · STM32 · Arduino · CLion · VS Code  
+
+⚡ **Fields of Interest:**  
+Circuit Design · System Integration · Power Systems · Simulation · Embedded Control  
+
+</div>
+
+---
+
+### 🌍 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abderrahmane-erraqabi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abderrahmane.erraqabi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbderrahmaneErraqabi?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
