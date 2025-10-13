@@ -20,7 +20,7 @@ I thrive in collaborative engineering environments and love solving real-world p
 <div align="center">
 
 💻 **Languages:**  
-C++ · Python · Rust · MATLAB · Embedded C  
+C++/C · Python · Rust · MATLAB · JavaScript
 
 🔧 **Tools & Platforms:**  
 KiCad · AutoCAD Electrical · Git · STM32 · Arduino · CLion · VS Code  
