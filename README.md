@@ -16,8 +16,6 @@ I thrive in collaborative engineering environments and love solving real-world p
 
 ---
 
-### ⚙️ Tech Stack  
-<div align="center">
 
 ### ⚙️ Tech Stack
 
@@ -26,7 +24,7 @@ I thrive in collaborative engineering environments and love solving real-world p
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" title="C++" /></a>
 <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" title="C" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" title="Python" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" title="Rust" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg)" width="36" height="36" title="Rust" /></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" title="MATLAB" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" title="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" title="HTML5" /></a>
