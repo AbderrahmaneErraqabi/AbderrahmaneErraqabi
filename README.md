@@ -20,7 +20,7 @@ I thrive in collaborative engineering environments and love solving real-world p
 <div align="center">
 
 💻 **Languages:**  
-<p align="left">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
@@ -33,7 +33,7 @@ I thrive in collaborative engineering environments and love solving real-world p
 </p>
 
 🔧 **Tools & Platforms:**  
-<p align="left">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>
@@ -44,6 +44,7 @@ I thrive in collaborative engineering environments and love solving real-world p
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Autocad_logo.png" height="40" alt="AutoCAD Electrical" title="AutoCAD Electrical"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Stm32-logo.svg" height="40" alt="STM32" title="STM32"/>
 </p>
+
 
 ⚡ **Fields of Interest:**  
 Circuit Design · System Integration · Power Systems · Simulation · Embedded Control  
