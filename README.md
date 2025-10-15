@@ -23,7 +23,7 @@ I thrive in collaborative engineering environments and love solving real-world p
 C/C++ · Python · Rust · MATLAB · JavaScript · HTML · CSS · React · SQL
 
 🔧 **Tools & Platforms:**  
-KiCad · AutoCAD Electrical · Git · STM32 · Arduino · CLion · VS Code · Raspberry Pi · Linux · Simulink
+KiCad · AutoCAD Electrical · Git · STM32 · Arduino · CLion · VS Code · Raspberry Pi · Linux 
 
 ⚡ **Fields of Interest:**  
 Circuit Design · System Integration · Power Systems · Simulation · Embedded Control  
