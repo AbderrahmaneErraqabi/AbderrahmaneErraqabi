@@ -22,8 +22,10 @@ I thrive in collaborative engineering environments and love solving real-world p
 💻 **Languages:**  
 C/C++ · Python · Rust · MATLAB · JavaScript · HTML · CSS · React · SQL
 
+
 🔧 **Tools & Platforms:**  
 KiCad · AutoCAD Electrical · Git · STM32 · Arduino · CLion · VS Code · Raspberry Pi · Linux 
+
 
 ⚡ **Fields of Interest:**  
 Circuit Design · System Integration · Power Systems · Simulation · Embedded Control  
@@ -35,7 +37,7 @@ Circuit Design · System Integration · Power Systems · Simulation · Embedded 
 <p align="center">
   <a href="https://www.linkedin.com/in/abderrahmane-er-raqabi-7381b0354/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  
+  </a>
   <a href="mailto:abderrahmane.erraqabi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
